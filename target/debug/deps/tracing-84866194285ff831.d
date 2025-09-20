@@ -1,0 +1,13 @@
+/home/marlon/tg/spotify-rs/target/debug/deps/tracing-84866194285ff831.d: /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/lib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/macros.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/dispatcher.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/field.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/instrument.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/level_filters.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/span.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/stdlib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/subscriber.rs
+
+/home/marlon/tg/spotify-rs/target/debug/deps/libtracing-84866194285ff831.rmeta: /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/lib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/macros.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/dispatcher.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/field.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/instrument.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/level_filters.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/span.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/stdlib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/subscriber.rs
+
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/lib.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/macros.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/dispatcher.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/field.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/instrument.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/level_filters.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/span.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/stdlib.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.40/src/subscriber.rs:

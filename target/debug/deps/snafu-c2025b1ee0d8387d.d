@@ -1,0 +1,12 @@
+/home/marlon/tg/spotify-rs/target/debug/deps/snafu-c2025b1ee0d8387d.d: /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/lib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/backtrace_impl_std.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/once_bool.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/error_chain.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/report.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/boxed_impls.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/Snafu.md /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/report.md
+
+/home/marlon/tg/spotify-rs/target/debug/deps/libsnafu-c2025b1ee0d8387d.rmeta: /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/lib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/backtrace_impl_std.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/once_bool.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/error_chain.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/report.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/boxed_impls.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/Snafu.md /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/report.md
+
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/lib.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/backtrace_impl_std.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/once_bool.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/error_chain.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/report.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/boxed_impls.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/Snafu.md:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-0.8.9/src/report.md:

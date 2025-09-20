@@ -1,0 +1,12 @@
+/home/marlon/tg/spotify-rs/target/debug/deps/httparse-6271357ce1a04488.d: /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/lib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/iter.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/macros.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/mod.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/swar.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/sse42.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/avx2.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/runtime.rs
+
+/home/marlon/tg/spotify-rs/target/debug/deps/libhttparse-6271357ce1a04488.rmeta: /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/lib.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/iter.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/macros.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/mod.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/swar.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/sse42.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/avx2.rs /home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/runtime.rs
+
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/lib.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/iter.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/macros.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/mod.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/swar.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/sse42.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/avx2.rs:
+/home/marlon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.9.4/src/simd/runtime.rs:

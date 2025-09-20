@@ -1,0 +1,2 @@
+oauth2::Client<StandardErrorResponse<BasicErrorResponseType>, Token, BasicTokenType, StandardTokenIntrospectionResponse<EmptyExtraTokenFields, BasicTokenType>, StandardRevocableToken, StandardErrorResponse<RevocationErrorResponseType>>
+&oauth2::Client<StandardErrorResponse<BasicErrorResponseType>, Token, BasicTokenType, StandardTokenIntrospectionResponse<EmptyExtraTokenFields, BasicTokenType>, StandardRevocableToken, StandardErrorResponse<RevocationErrorResponseType>>
